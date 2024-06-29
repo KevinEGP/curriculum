@@ -1,0 +1,16 @@
+@import "./assets/bootstrap-grid.css";
+
+@media (min-width: 768px) {
+    html,
+    body {
+    background-color: #ebecf0;
+    }
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
