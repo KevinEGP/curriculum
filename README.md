@@ -1,6 +1,6 @@
 # MyCurriculum
 
-You can show more here [More] (https://kevinegp.github.io/curriculum/)
+You can show curriculum here [See more](https://kevinegp.github.io/curriculum/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
 
