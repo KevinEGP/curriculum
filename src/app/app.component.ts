@@ -77,5 +77,9 @@ export class AppComponent {
       url: 'https://icons.veryicon.com/png/o/business/vscode-program-item-icon/git-13.png',
       width: '30px',
     },
+    aws: {
+      url: 'https://th.bing.com/th/id/OIF.B4dgAhSF2UHWtSkKD3v1wQ?rs=1&pid=ImgDetMain',
+      width: '30px',
+    },
   }
 }
